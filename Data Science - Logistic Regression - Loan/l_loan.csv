@@ -1,0 +1,6 @@
+Loan_ID,Gender,Marital_Status,Dependents,Graduate,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History
+LI0100,Male,Single,0,Yes,No,5849,0,145.434256,360,0
+LI0101,Male,Married,1,Yes,No,4583,1508,128,360,0
+LI0102,Male,Married,0,Yes,Yes,3000,0,66,360,1
+LI0103,Male,Married,0,No,No,2583,2358,120,360,0.351585
+LI0104,Male,Single,0,Yes,No,6000,0,141,360,0.84
